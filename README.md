@@ -1,1 +1,2 @@
-# Website-Style-Guide
+# Codeacademy project
+# Simple html and css website
